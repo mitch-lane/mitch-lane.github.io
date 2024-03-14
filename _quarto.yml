@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "mitch-lane.github.io"
+  title: "Mitchell Lane"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

@@ -1,6 +1,21 @@
 ---
-title: "mitch-lane.github.io"
+title: "Home"
+image: river.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:mitch.lane@deakin.edu.au
+    - text: Github
+      icon: github
+      href: https://github.com/mitch-lane
+    - text: CV
+      icon: file-text
 ---
+
 
 This is a Quarto website.
 
