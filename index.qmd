@@ -1,7 +1,7 @@
 ---
-title: "Home"
+title: "About me"
 image: river.jpg
-about: 
+about:
   template: jolla
   image-shape: round
   image-width: 15em
@@ -16,8 +16,9 @@ about:
       icon: file-text
 ---
 
+I specialize in developing practical code to enhance scientific research outcomes. With a background in Data Science and Public Policy, I focus on streamlining data analysis, improving research workflows, and enhancing data visualization products for a variety of technical and non-technical audiences. I excel in collaborative environments, working closely with researchers to deliver efficient and impactful solutions. My goal is to leverage coding expertise to advance scientific knowledge and discovery.
 
-This is a Quarto website.
+I also have experience in developing packages tailored for research projects. These packages are designed to address specific challenges in data processing, analysis, and visualization, providing researchers with powerful tools to accelerate their work. My goal is to continue developing innovative solutions that directly contribute to the advancement of scientific knowledge.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

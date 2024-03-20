@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "About me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I specialize in developing practical code to enhance scientific research outcomes. With a background in Data Science and Public Policy, I focus on streamlining data analysis, improving research workflows, and enhancing data visualization products for a variety of technical and non-technical audiences. I excel in collaborative environments, working closely with researchers to deliver efficient and impactful solutions. My goal is to leverage coding expertise to advance scientific knowledge and discovery.\nI also have experience in developing packages tailored for research projects. These packages are designed to address specific challenges in data processing, analysis, and visualization, providing researchers with powerful tools to accelerate their work. My goal is to continue developing innovative solutions that directly contribute to the advancement of scientific knowledge.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,15 @@
   {
     "objectID": "Research.html",
     "href": "Research.html",
-    "title": "Research",
+    "title": "Mitchell Lane",
     "section": "",
-    "text": "Here is some info about my research contributions and interest."
+    "text": "Deakin University\nCentre for Regional & Rural Futures (CeRRF)\n2023 - current\n\nDeveloped an R package to facilitate integrated assessment of hydrology-dependent outcomes in the Murray-Darling Basin under different climate scenarios.\nSkills: R package development, Git version control, Quarto publishing.\n\n\n\nDepartment of Education\nIntegrated Data Analytics\n2021 - 2023\n\nLed research projects to support priority policy areas, analysing large integrated administrative datasets (HEIMS, ABS, DOMINO, ATO) and developed interactive dashboards with R Shiny.\nAuthored technical guides, workflow templates, and reusable code for other analysts within the department for future projects. For example, computationally efficient data pipelines using {targets}."
+  },
+  {
+    "objectID": "Education.html",
+    "href": "Education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Short courses\n\nMixture Modeling and Latent Class Analysis (CentreStat)\n\nDegrees\n\nGraduate Certificate in Public Adiministration (University of Canberra)\nGraduate Certificate in Data Science (RMIT)\nBachelor of Science (The University of Melbourne)"
   }
 ]

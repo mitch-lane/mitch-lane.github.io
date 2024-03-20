@@ -7,14 +7,17 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - Research.qmd
+        text: About me
+      - href: Research.qmd
+        text: Projects
+      - href: Education.qmd
+        text: Education
+      - href: CV.qmd
+        text: CV
 
 format:
   html:
     theme: sandstone
     css: styles.css
     toc: true
-
-
 

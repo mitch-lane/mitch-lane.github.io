@@ -1,0 +1,16 @@
+---
+title: "Education"
+editor: visual
+---
+
+**Short courses**
+
+-   Mixture Modeling and Latent Class Analysis (CentreStat)
+
+**Degrees**
+
+-   Graduate Certificate in Public Adiministration (University of Canberra)
+
+-   Graduate Certificate in Data Science (RMIT)
+
+-   Bachelor of Science (The University of Melbourne)
